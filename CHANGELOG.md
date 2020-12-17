@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - fix the error code to 400 on events missing fields query. [#448](https://github.com/rokwire/rokwire-building-blocks-api/pull/448)
 - Text changes to Contributions Catalog. [#601](https://github.com/rokwire/rokwire-building-blocks-api/issues/601)
 ### Added
+- Add support for new authentication building block. [#611](https://github.com/rokwire/rokwire-building-blocks-api/issues/611)
 - Add capabilities dataset in contribution building block. [#401](https://github.com/rokwire/rokwire-building-blocks-api/issues/401)
 - Add contribution building block. [#406](https://github.com/rokwire/rokwire-building-blocks-api/issues/406)
 - Add talent data to contribution dataset. [#407](https://github.com/rokwire/rokwire-building-blocks-api/issues/407)
